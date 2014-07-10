@@ -24,6 +24,28 @@ WooCommerce product slider allows you to showcase your products in a nice slidin
 *   Navigation arrows, pagination
 *   Separate css file to change the style.
 
+= WooCommerce Product Slider - Pro =
+(Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/woocommerce-product-slider-pro/) to check the pro version.)
+
+= Features of the premium plugin =
+
+*   Fully responsive & mobile ready.
+*   Supports both vertical and horizontal directions.
+*   Multiple Sliders.
+*   Support custom post type categories.
+*   Transformation effects
+*   jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
+*   Transition effects (e.g. scroll, fade, cover etc.)
+*   Support all major browsers (Chrome, IE, FireFox, Opera, Safari)
+*   Shortcode and Template tags(PHP) available for pages.
+*   Separate CSS file to change styles.
+*   Easy customisable.
+*   Light weight.
+*   Left, right and paging controls.
+*   Compatible with any theme or plugin.
+*   Display different types of post images.
+*   Touch swipe for mobile devices.
+
 == Installation ==	
 
 **Installation Instruction & Configuration**  	
