@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Slider v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-09-04 17:12:42+0000\n"
+"Last-Translator: admin <subhansanjaya@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/class-wps-widget.php:5
+#: classes/class-wps.php:267
+#: classes/class-wps.php:268
+#: classes/class-wps.php:603
+#@ wa_wps_txt
+#@ woocommerce-product-slider
+#@ wa-wps-txt
+msgid "WooCommerce Product Slider"
+msgstr ""
+
+#: classes/class-wps-widget.php:20
+#@ wp_widget_plugin
+msgid "Widget Title"
+msgstr ""
+
+#: classes/class-wps.php:281
+#@ wa-wps-txt
+msgid "Display featured image"
+msgstr ""
+
+#: classes/class-wps.php:282
+#@ wa-wps-txt
+msgid "Display next and prev buttons"
+msgstr ""
+
+#: classes/class-wps.php:283
+#@ wa-wps-txt
+msgid "Display read more text"
+msgstr ""
+
+#: classes/class-wps.php:284
+#@ wa-wps-txt
+msgid "Display title"
+msgstr ""
+
+#: classes/class-wps.php:285
+#@ wa-wps-txt
+msgid "Display excerpt"
+msgstr ""
+
+#: classes/class-wps.php:286
+#@ wa-wps-txt
+msgid "Display pagination"
+msgstr ""
+
+#: classes/class-wps.php:287
+#@ wa-wps-txt
+msgid "Display add to cart"
+msgstr ""
+
+#: classes/class-wps.php:288
+#@ wa-wps-txt
+msgid "Display price"
+msgstr ""
+
+#: classes/class-wps.php:289
+#@ wa-wps-txt
+msgid "Auto scroll"
+msgstr ""
+
+#: classes/class-wps.php:290
+#@ wa-wps-txt
+msgid "Circular"
+msgstr ""
+
+#: classes/class-wps.php:291
+#@ wa-wps-txt
+msgid "Excerpt limit"
+msgstr ""
+
+#: classes/class-wps.php:292
+#@ wa-wps-txt
+msgid "Read more text"
+msgstr ""
+
+#: classes/class-wps.php:293
+#@ wa-wps-txt
+msgid "Category"
+msgstr ""
+
+#: classes/class-wps.php:294
+#@ wa-wps-txt
+msgid "Number of posts"
+msgstr ""
+
+#: classes/class-wps.php:295
+#@ wa-wps-txt
+msgid "Scroll"
+msgstr ""
+
+#: classes/class-wps.php:296
+#@ wa-wps-txt
+msgid "Posts order"
+msgstr ""
+
+#: classes/class-wps.php:297
+#@ wa-wps-txt
+msgid "Posts orderby"
+msgstr ""
+
+#: classes/class-wps.php:298
+#@ wa-wps-txt
+msgid "Transition effect"
+msgstr ""
+
+#: classes/class-wps.php:299
+#@ wa-wps-txt
+msgid "Easing effect"
+msgstr ""
+
+#: classes/class-wps.php:300
+#@ wa-wps
+msgid "Loading place"
+msgstr ""
+
+#: classes/class-wps.php:301
+#@ wa-wps-txt
+msgid "Deactivation"
+msgstr ""
+
+#: classes/class-wps.php:320
+#@ wa-wps-txt
+msgid "Select where all the scripts should be placed."
+msgstr ""
+
+#: classes/class-wps.php:457
+#@ wa-wps-txt
+msgid "Determines whether the carousel should be auto scroll."
+msgstr ""
+
+#: classes/class-wps.php:469
+#@ wa-wps-txt
+msgid "Number of posts to be scroll per one transition"
+msgstr ""
+
+#: classes/class-wps.php:485
+#@ wa-wps-txt
+msgid "Determines whether the carousel should be circular."
+msgstr ""
+
+#: classes/class-wps.php:499
+#@ wa-wps-txt
+msgid "Number of posts to be displayed on the slider"
+msgstr ""
+
+#: classes/class-wps.php:531
+#@ wa-wps-txt
+msgid "Terms/slugs names seperated by comma e.g. clothing, hoodies"
+msgstr ""
+
+#: classes/class-wps.php:551
+#@ wa-wps-txt
+msgid "Limit the no of words in excerpt"
+msgstr ""
+
+#: classes/class-wps.php:596
+#@ wa-wps-txt
+msgid "Delete settings on plugin deactivation."
+msgstr ""
+
+#: classes/class-wps.php:610
+#@ wa-wps-txt
+msgid "WooCommerce product slider"
+msgstr ""
+
+#: classes/class-wps.php:612
+#@ wa-wps-txt
+msgid "Configuration: "
+msgstr ""
+
+#: classes/class-wps.php:612
+#@ wa-wps-txt
+msgid "Plugin URL"
+msgstr ""
+
+#: classes/class-wps.php:612
+#@ wa-wps-txt
+msgid "Plugin URI"
+msgstr ""
+
+#: classes/class-wps.php:614
+#@ wa-wps-txt
+msgid "Do you like this plugin?"
+msgstr ""
+
+#: classes/class-wps.php:615
+#@ wa-wps-txt
+msgid "Please, "
+msgstr ""
+
+#: classes/class-wps.php:615
+#@ wa-wps-txt
+msgid "rate it"
+msgstr ""
+
+#: classes/class-wps.php:615
+#@ wa-wps-txt
+msgid "on WordPress.org"
+msgstr ""
+
+#: classes/class-wps.php:626
+#@ wa-wps-txt
+msgid "Reset to defaults"
+msgstr ""
+
+#: classes/class-wps.php:633
+#@ wa-wps-txt
+msgid "Enable"
+msgstr ""
+
+#: classes/class-wps.php:634
+#@ wa-wps-txt
+msgid "Disable"
+msgstr ""
+
+#: classes/class-wps.php:638
+#@ wa-wps-txt
+msgid "Header"
+msgstr ""
+
+#: classes/class-wps.php:639
+#@ wa-wps-txt
+msgid "Footer"
+msgstr ""
+
+#: classes/class-wps.php:644
+#@ wa-wps-txt
+msgid "General settings"
+msgstr ""
+
+#: classes/class-wps.php:685
+#@ wa-wps-txt
+msgid "Settings restored to defaults."
+msgstr ""
+
