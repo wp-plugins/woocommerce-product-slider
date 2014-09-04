@@ -4,7 +4,7 @@ Author: subhansanjaya
 Author URI: http://www.weaveapps.com
 Plugin URI: http://wordpress.org/plugins/woocommerce-product-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
-Tags: woocommerce product slider, product slider, posts slider,horizontal posts slider, woocommerce product carousel, Horizontal posts content slider, woocommerce products slider, woocommerce slider, posts slider, woocommerce product carousel, product carousel, horizontal product carousel, vertical product carousel, woocommerce, woocommerce carousel, product content slider
+Tags: woocommerce product slider, product slider, posts slider,horizontal posts slider, woocommerce product carousel, posts content slider, woocommerce products slider, woocommerce slider, posts slider, woocommerce product carousel, product carousel, horizontal product carousel, vertical product carousel, woocommerce, carousel
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.1
