@@ -4,7 +4,7 @@ Author: subhansanjaya
 Author URI: http://www.weaveapps.com
 Plugin URI: http://wordpress.org/plugins/woocommerce-product-slider/
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BXBCGCKDD74UE
-Tags: woocommerce product slider, product slider, posts slider,horizontal posts slider, woocommerce product carousel, posts content slider, woocommerce products slider, woocommerce slider, posts slider, woocommerce product carousel, product carousel, horizontal product carousel, vertical product carousel, woocommerce, carousel
+Tags: woocommerce product slider, product slider, posts slider,horizontal posts slider, woocommerce product carousel, posts content slider, woocommerce products slider, woocommerce slider, posts slider, woocommerce product carousel, product carousel, horizontal product carousel, vertical product carousel, woocommerce, carousel,product,products slider,woo slider
 Requires at least: 3.0
 Tested up to: 4.0
 Stable tag: 1.1
@@ -26,26 +26,30 @@ WooCommerce product slider / carousel allows you to showcase your products in a 
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 *   Separate css file to change the styles.
 
+Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, consider purchasing the premium version. Thank you.
+
 = WooCommerce Product Slider - Pro =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/woocommerce-product-slider-pro/) to check the pro version.)
+
+[__Live demo - premium version__](http://wordpress.weaveapps.com/woocommerce-product-slider/)
 
 = Features of the premium plugin =
 
 *   Fully responsive & mobile ready.
 *   Supports both vertical and horizontal directions.
-*   Multiple Sliders.
-*   Support custom post type categories.
-*   Transformation effects
+*   Multiple / Unlimited Sliders.
+*   Support any custom post type categories.
+*   Transformation effects.
 *   jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
-*   Transition effects (e.g. scroll, fade, cover etc.)
+*   Smooth transition effects (e.g. scroll, fade, cover etc.)
 *   Support all major browsers (Chrome, IE, FireFox, Opera, Safari)
-*   Shortcode and Template tags(PHP) available for pages.
+*   Shortcode and Template tags(PHP) for displaying slider anywhere in your site.
 *   Separate CSS file to change styles.
 *   Easy customisable.
-*   Light weight.
-*   Widget ready.
+*   Light weight and SEO optimised.
+*   Widget ready. (Comes with a widget to display your slider easily in widget areas.)
 *   Left, right and paging controls.
-*   Compatible with any theme or plugin.
+*   Compatible with any theme or plugin.(Works without any jQuery conflict issue.)
 *   Display different types of post images.
 *   Touch swipe for mobile devices.
 
