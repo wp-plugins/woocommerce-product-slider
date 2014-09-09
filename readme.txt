@@ -18,7 +18,6 @@ This is CarouFredSel library based woocommerce product slider / carousel.
 WooCommerce product slider / carousel allows you to showcase your products in a nice sliding manner.   Slider can be customised in many ways.(category, product order, product order by, excerpt length, no of products, add to cart, price, image width, image height, display featured image etc).
 
 = Features of this plugin =
-*   Responsive.
 *   Transition effects.
 *   Navigation arrows, pagination.
 *   Short code available for pages.
@@ -39,7 +38,7 @@ Note: This plugin is provided as-is. Only critical bug fixes, future compatibili
 
 *   Fully responsive & mobile ready.
 *   Supports both vertical and horizontal directions.
-*   * Multiple sliders can be created, so that you can embed different sliders on different pages of your WordPress site.
+*   Multiple sliders can be created, so that you can embed different sliders on different pages of your WordPress site.
 *   Slide any post type. (e.g. post, page, product, portfolio etc.)
 *   Transformation effects.
 *   Ability to display featured products via categories.
