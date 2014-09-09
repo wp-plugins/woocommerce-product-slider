@@ -18,15 +18,17 @@ This is CarouFredSel library based woocommerce product slider / carousel.
 WooCommerce product slider / carousel allows you to showcase your products in a nice sliding manner.   Slider can be customised in many ways.(category, product order, product order by, excerpt length, no of products, add to cart, price, image width, image height, display featured image etc).
 
 = Features of this plugin =
-*   Short code available for pages.
-*   Light weight.
-*   Navigation arrows, pagination.
+*   Responsive.
 *   Transition effects.
+*   Navigation arrows, pagination.
+*   Short code available for pages.
 *   Widget ready.
+*   Translation ready.
+*   SEO friendly.
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 *   Separate css file to change the styles.
 
-Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, consider purchasing the premium version. Thank you.
+Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, please, consider purchasing the premium version. Thank you.
 
 = WooCommerce Product Slider - Pro =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/woocommerce-product-slider-pro/) to check the pro version.)
@@ -37,20 +39,24 @@ Note: This plugin is provided as-is. Only critical bug fixes, future compatibili
 
 *   Fully responsive & mobile ready.
 *   Supports both vertical and horizontal directions.
-*   Multiple / Unlimited Sliders.
-*   Support any custom post type categories.
+*   * Multiple sliders can be created, so that you can embed different sliders on different pages of your WordPress site.
+*   Slide any post type. (e.g. post, page, product, portfolio etc.)
 *   Transformation effects.
+*   Ability to display featured products via categories.
 *   jQuery easing effects (e.g. linear, swing, quadratic, elastic etc.)
 *   Smooth transition effects (e.g. scroll, fade, cover etc.)
 *   Support all major browsers (Chrome, IE, FireFox, Opera, Safari)
 *   Shortcode and Template tags(PHP) for displaying slider anywhere in your site.
 *   Separate CSS file to change styles.
 *   Easy customisable.
-*   Light weight and SEO optimised.
+*   Light weight. (Smaller file size which load faster.)
+*   SEO friendly.
 *   Widget ready. (Comes with a widget to display your slider easily in widget areas.)
 *   Left, right and paging controls.
 *   Compatible with any theme or plugin.(Works without any jQuery conflict issue.)
 *   Display different types of post images.
+*   Unique settings for each slider.
+*   You can reorder the products, or choose to display the products randomly.
 *   Touch swipe for mobile devices.
 
 == Installation ==	
