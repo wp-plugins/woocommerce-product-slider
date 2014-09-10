@@ -27,12 +27,9 @@ WooCommerce product slider / carousel allows you to showcase your products in a 
 *   Support all browsers: Firefox, Chrome, IE, Safari etc.
 *   Separate css file to change the styles.
 
-Note: This plugin is provided as-is. Only critical bug fixes, future compatibility with WordPress versions and routine maintenance will be addressed in plugin updates. If you want additional support or access to more features, please, consider purchasing the premium version. Thank you.
 
 = WooCommerce Product Slider - Pro =
 (Please, click [__here__](http://weaveapps.com/shop/wordpress-plugins/woocommerce-product-slider-pro/) to check the pro version.)
-
-[__Live demo - premium version__](http://wordpress.weaveapps.com/woocommerce-product-slider/)
 
 = Features of the premium plugin =
 
