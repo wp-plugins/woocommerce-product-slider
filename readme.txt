@@ -69,7 +69,7 @@ WooCommerce product slider / carousel allows you to showcase your products in a 
 * It is search engine optimized for improving the website ranking on Google, Bing, Yahoo etc.
 * Custom option to override styles, if necessary without editing the css files.
 * Change default colors with color pickers
-* * User can set the items "Dimension: (width or height) and also "Image Height and Width" from settings.
+* User can set the items "Dimension: (width or height) and also "Image Height and Width" from settings.
 * Smart autoplay that pauses on hover and stops at first user action and much more.
 
 
