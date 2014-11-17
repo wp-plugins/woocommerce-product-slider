@@ -96,7 +96,7 @@ Simply insert the shortcode below into the post/page to display the slider:
 **Function in template files (via php):**
 To insert the slider into your theme, add the following code to the appropriate theme file:
 
-`<?php echo do_shortcode(‘[wa-wps]’); ?>`
+`<?php echo do_shortcode('[wa-wps]'); ?>`
 
 **As a widget.**
 
