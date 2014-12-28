@@ -1,0 +1,184 @@
+@CHARSET "ISO-8859-1";
+.wps_clearfix {
+	float: none;
+
+	clear: both;
+}
+
+/*read more text */
+.wps_more {
+
+	font-size:11px;"
+}
+
+.wps_foo_con {
+
+	clear: left;
+
+	font-weight:normal;
+
+	font-style:normal;
+
+	height:auto;
+
+	overflow: hidden;
+
+	margin-bottom: 8px;
+}
+
+/* Post title */
+.wps_title {
+
+	clear: both;
+
+	height: auto;
+
+	overflow: hidden;
+
+	display: block;
+}
+
+.wps_image_carousel {
+
+	position: relative;
+
+	width: auto;
+
+	padding: 15px 10px 15px 10px;
+
+}
+
+/*  image of posts on slider */
+.wps_foo_content .wps_img {
+
+    display: block;
+
+    margin: auto;
+
+}
+
+.wps_foo_content {
+
+	position: relative;
+
+    height: auto;
+
+    padding: 5px;
+
+    margin: 6px;
+
+    display: block;
+
+    float: left;
+
+ 	text-align: center;
+}
+
+/**************** slider controllers - horizontal ****************/
+.wps_image_carousel .wps_prev, .wps_image_carousel .wps_next {
+
+	z-index: 250;	
+
+	font-weight: normal;
+
+	text-align: center;
+
+	text-decoration: none;
+
+	display: block;
+
+	position: absolute;
+
+	top: 50%;
+
+	z-index: 4;
+
+}
+
+.wps_image_carousel .wps_prev {
+
+	background-position: 0 0;
+
+	left: -0px;
+
+}
+			
+.wps_image_carousel .wps_next {
+
+	background-position: -18px 0;
+	
+	right: -0px;
+
+}
+
+/**************** Pagination controls ****************/
+.wps_image_carousel .wps_pagination {
+
+	text-align: center;
+	margin: 0 auto;
+	margin: 20px;
+
+}
+.wps_image_carousel .wps_pagination a {
+
+	text-decoration: none;
+	text-indent: -999px;
+	display: inline-block;
+	overflow: hidden;
+	width: 8px;
+	height: 8px;
+	margin: 0 5px 0 0;
+	z-index: 250;	
+	cursor: pointer;
+	opacity: 0.5;
+
+}
+.wps_image_carousel .wps_pagination a.selected {
+
+	text-decoration: underline;	
+	zoom: 1;
+	opacity: 1;
+
+}
+
+/* disable direction arrows */
+.wps_prev.disabled, .wps_prev.disabled,.wps_next.disabled, .wps_next.disabled {
+
+	color: #865;
+	opacity: 0;
+	cursor: default;
+
+}
+
+/************  add to cart button ****************/
+a.wa_wps_button,  .wa_wps_button {
+display: inline-block;
+margin: 5px 5px 5px 0;
+padding: 2px 13px 2px;
+border: 1px solid #ccc;
+color: #444;
+text-align: center;
+text-decoration: none;
+cursor: pointer;
+position: relative;
+font-size: 1em !important;
+font-family: inherit;
+overflow: visible;
+text-shadow: 0 1px 0 rgba(255,255,255,0.9);
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+background: #237fd7;
+background-image: -webkit-gradient(linear, left top, left bottom, from(#fefefe), to(#e5e5e5));
+background-image: -webkit-linear-gradient(top, #fefefe, #e5e5e5);
+background-image: -moz-linear-gradient(top, #fefefe, #e5e5e5);
+background-image: -ms-linear-gradient(top, #fefefe, #e5e5e5);
+background-image: -o-linear-gradient(top, #fefefe, #e5e5e5);
+background-image: linear-gradient(top, #fefefe, #e5e5e5);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fefefe', EndColorStr='#e5e5e5');
+-webkit-box-shadow: inset 0 1px 0 hsla(0,100%,100%,.3) /*Top*/, inset 0 0 0 1px rgba(255,255,255,0.6), 0 1px 2px hsla(0, 0%, 0%, .1) /*Shadow*/;
+-moz-box-shadow: inset 0 1px 0 hsla(0,100%,100%,.3) /*Top*/, inset 0 0 0 1px rgba(255,255,255,0.6), 0 1px 2px hsla(0, 0%, 0%, .1) /*Shadow*/;
+box-shadow: inset 0 1px 0 hsla(0,100%,100%,.3) /*Top*/, inset 0 0 0 1px rgba(255,255,255,0.6), 0 1px 2px hsla(0, 0%, 0%, .1) /*Shadow*/;
+-webkit-transition: all ease-in-out .2s;
+-moz-transition: all ease-in-out .2s;
+}
