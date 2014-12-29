@@ -1204,7 +1204,7 @@ class WooCommerce_Product_Slider {
 		}
 		echo '</h2><div class="wa-wps-settings"><div class="wa-wps-credits"><h3 class="hndle">'.__('Carousel horizontal posts content slider', 'wa-wps-txt').'</h3>
 					<div class="inside">
-					<p class="inner">'.__('Configuration: ', 'wa-wps-txt').' <a href="http://wordpress.org/plugins/woocommerce-product-slider/installation/" target="_blank" title="'.__('Plugin URL', 'wa-wps-txt').'">'.__('Plugin URI', 'wa-wps-txt').'</a></p>
+					<p class="inner">'.__('Configuration: ', 'wa-wps-txt').' <a href="http://weaveapps.com/shop/wordpress-plugins/woocommerce-product-slider/#installation" target="_blank" title="'.__('Plugin URL', 'wa-wps-txt').'">'.__('Plugin URI', 'wa-wps-txt').'</a></p>
 					</p><hr />
 					<h4 class="inner">'.__('Do you like this plugin?', 'wa-wps-txt').'</h4>
 					<p class="inner">'.__('Please, ', 'wa-wps-txt').'<a href="http://wordpress.org/support/view/plugin-reviews/woocommerce-product-slider" target="_blank" title="'.__('rate it', 'wa-wps-txt').'">'.__('rate it', 'wa-wps-txt').'</a> '.__('on WordPress.org', 'wa-wps-txt').'<br />          
