@@ -7,7 +7,7 @@ Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id
 Tags: woocommerce product slider, product slider, posts slider,horizontal posts slider, woocommerce product carousel, Horizontal posts content slider.
 Requires at least: 3.0
 Tested up to: 3.9.1
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 	
