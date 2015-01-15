@@ -38,12 +38,12 @@ WooCommerce product slider / carousel allows you to showcase your products in a 
 
 = Features of the pro version of the plugin =
 * Filter by different product categories or types. 
-	-Newest
-	-up sells
-	-best selling
-	-related products
-	-featured
-	-specific products etc.
+**-Newest**
+**-featured**
+**-up sells**
+**-best selling**
+**-related products**
+**-specific products etc.**
 * Automatically select related products based on tags & Categories.
 * Fully responsive and mobile friendly.
 * Smart lazy-loading — preloads nearby images.
