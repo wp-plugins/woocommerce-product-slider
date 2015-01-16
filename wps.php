@@ -398,6 +398,8 @@ class WooCommerce_Product_Slider {
 	}
 	$slider_gallery.='</div>';
 
+	wp_reset_postdata();
+
 	return $slider_gallery;
 
 	}
